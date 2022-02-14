@@ -1,0 +1,33 @@
+body{
+  background-color: lightgray;
+}
+.btn{
+  opacity: 0.6;
+}
+.arryn{
+  background-image: url('source/images/arryn.png');
+}
+.baratheon{
+  background-image: url('source/images/baratheon.png');
+}
+.greyjoy{
+  background-image: url('source/images/greyjoy.png');
+}
+.lannister{
+  background-image: url('source/images/lannister.png');
+}
+.stark{
+  background-image: url('source/images/stark.png');
+}
+.targaryen{
+  background-image: url('source/images/targaryen.png');
+}
+.tully{
+  background-image: url('source/images/tully.png');
+}
+.tyrell{
+  background-image: url('source/images/tyrell.png');
+}
+.matched{
+  opacity:1;
+}
